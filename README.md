@@ -1,4 +1,4 @@
-# flutter_application_1
+# splash
 
 A new Flutter project.
 
